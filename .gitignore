@@ -1,0 +1,4 @@
+*.o
+.vscode
+ignore_anything_here/
+main
